@@ -1,0 +1,43 @@
+{
+  "perusahaan": [
+    {
+      "id": 1,
+      "name": "International Business Machine (IBM)",
+      "link": "https://www.ibm.com/id-en",
+      "logo": "R.drawable.ibm",
+      "deskripsi": "International Business Machine (IBM) adalah sebuah perusahaan Amerika Serikat yang memproduksi dan menjual perangkat keras dan perangkat lunak komputer. IBM didirikan oleh Charles Ranlett Flint pada 16 Juni 1911, beroperasi sejak 1888 dan berpusat di Armonk, New York, Amerika Serikat. Tercatat 300 kantor cabang, dengan 400.000 karyawan, kini tersebar di 170 negara. Mesin bisnis IBM dalam bentuk layanan yang diberikan antara lain meliputi sektor cloud and cognitive software, global technology services (GTS), global business service (GBS), serta global financing and system. Saat ini, 92% dari 100 bank terkemuka dunia menggunakan jasa IBM untuk menjamin keamanan semua transaksi keuangan mereka. Membedah sektor keuangan IBM, tahun 2018 capital market bertengger di angka US$ 113 miliar. Revenue ada di jumlah US$ 77.1 miliar dengan laba bersih sebesar US$ 11.4 miliar.",
+      "pendiri": "Charles Ranlett Flint",
+      "kebangsaan": "Amerika",
+      "pendidikan": "New York University Tandon School of Engineering",
+      "kelahiran": "24 Januari 1850",
+      "wafat": "26 Februari 1934",
+      "profile": "R.drawable.p1"
+    },
+    {
+      "id": 2,
+      "name": "Oracle",
+      "link": "https://www.oracle.com/index.html",
+      "logo": "R.drawable.oracle",
+      "deskripsi": "Oracle merupakan perusahaan penyedia teknologi komputer yang khusus mengembangkan dan mendistribusikan sistem perangkat keras (hardware) dan perangkat lunak (software), terutama dalam sistem manajemen database. Perusahaan yang berkantor pusat di Redwood City, California, Amerika Serikat ini merupakan pembuat perangkat lunak terbesar ketiga dari segi pendapatan setelah Microsoft dan IBM. Pada awal berdiri-nya, Oracle tak lepas dari peran Ellison yang terinspirasi dari makalah Edgar F. Codd pada tahun 1970. Makalah tersebut berisi tentang sistem manajemen database relasional (RDBMS). Selanjutnya pada tahun 1977 Ellison mendirikan Oracle Corporation yang dibantu oleh Bob Miner dan Ed Oates di bawah naungan Software Development Laboratories (SDL). Pada tahun 1982, SDL berubah nama menjadi Relational Software, Inc. yang kemudian berganti kembali menjadi Oracle Systems Corporation di tahun 1982. Pada ulang tahun Oracle yang ke 30, Oracle mengumumkan untuk lebih terfokus dengan produk andalannya yang berlabel Oracle Database. Pada tahun 1995, perusahaan kembali mengalami perubahan nama menjadi Oracle Corporation.",
+      "pendiri": "Larry Ellison",
+      "kebangsaan": "Amerika",
+      "pendidikan": "Universitas Chicago",
+      "kelahiran": "17 Agustus 1944",
+      "wafat": "Belum Wafat",
+      "profile": "R.drawable.p2"
+    },
+    {
+      "id": 3,
+      "name": "Tata Consultancy Service (TCS)",
+      "link": "https://www.tcs.com/",
+      "logo": "R.drawable.tcs",
+      "deskripsi": "Tata Consultancy Service (TCS) adalah perusahaan yang berdiri sejak tahun 1968, TCS yang dirintis oleh JRD Tata dan bermarkas di Mumbai India, TCS merupakan salah satu anak perusahaan dari sebuah konglomerasi raksasa Tata Group yang hari ini beroperasi di 46 negara. TCS sendiri memberikan layanan bisnis di sektor IT yang meliputi service, supplier, konsultan, pengembang aplikasi, infrastruktur serta outsourcing. Sebagai perusahaan IT nomor satu di India, TCS menempati urutan 10 dalam Fortune India 500. Berbagai perusahaan yang bergerak di sektor perbankan, retail, komunikasi, media, energy, asuransi, manufaktur, kesehatan sampai kepada sektor ekspedisi tercatat menjadi client TCS. Bahkan TCS juga mulai merambah masuk di sektor artificial intelligence (AI), machine learning, internet of things, cloud computing dan cyber security. Tahun 2018, TCS berhasil menjadi perusahaan kedua di India yang berhasil memiliki capital market lebih dari US$ 100 miliar. Capaian ini menjadikan TCS sebagai salah satu dari 63 perusahaan raksasa dunia dengan capital market lebih dari US$ miliar. Per Desember 2020, TCS mempekerjakan 469.000 karyawan di seluruh dunia dan memiliki revenue sebesar US$ 22 miliar dengan laba bersih US$ 4.4 miliar.",
+      "pendiri": "Faqir Chand Kohli",
+      "kebangsaan": "India",
+      "pendidikan": "Institut Teknologi Massachusetts",
+      "kelahiran": "19 Maret 1924",
+      "wafat": "26 November 2020",
+      "profile": "R.drawable.p3"
+    }
+  ]
+}
